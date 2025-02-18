@@ -1,0 +1,19 @@
+.page-bc{
+    background-color: white;
+}
+.pict1{
+    height: 50vh;
+    width: 50vh;
+}
+.head1{
+    font-family: "Roboto";
+    font-size: 500;
+    font-weight: bold;
+    color: darkgreen;
+}
+.para1{
+    font-family: "Roboto";
+    font-size: 200;
+    color: black;
+
+}

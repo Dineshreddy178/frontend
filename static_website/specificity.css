@@ -1,0 +1,28 @@
+.bc-div{
+    background-color: lightgray;
+    padding: 50px;
+}
+
+.h-h{ 
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 100px;
+
+}
+
+.f-d{
+    color: blue;
+}
+
+.p{
+    background-color: lightblue;
+    color: blue;
+    font-style: italic;
+    padding: 50px;
+}
+.s{
+    background-color: darkslateblue;
+    color: white;
+    padding: 30px;
+    
+}

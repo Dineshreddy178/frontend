@@ -1,0 +1,28 @@
+.back-c{
+    background-color: blanchedalmond;
+}
+
+
+.thank-heading{
+    font-family: "Roboto";
+    color: black;
+    
+}
+.thank-paragraph{
+    font-family: "Roboto";
+    color: black;
+    font-size: small;
+    font-weight: 100;
+}
+.ig{
+    height: 250px;
+    width: 150px;
+}
+.bt{
+    height: 45px;
+    color: rgb(255, 255, 255);
+    background-color: orange;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}

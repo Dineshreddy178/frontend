@@ -1,0 +1,22 @@
+.page_background{
+    background-color: bisque;
+    padding: 50px;
+    
+}
+h1{
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+li{
+    font-family: "Roboto";
+    padding: 10px;
+}
+.hh{
+    color: blue;
+}
+
+.complete{
+    color: gray;
+    text-decoration: line-through;
+}
