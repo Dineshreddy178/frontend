@@ -1,0 +1,68 @@
+.main-bg{
+    background-image: linear-gradient(rgb(50, 119, 197) , rgb(165, 211, 228) );
+    height: 100vh;
+    text-align: center;
+}
+.main-h1{
+    padding-top: 300px;
+    font-size: 100px;
+    font-family: "Roboto";
+}
+.main-bt{
+    font-family: "roboto";
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 10px;
+    
+    
+}
+button:hover{
+    color: white;
+    background-color:transparent;
+    
+}
+.margin-alignment{
+    margin-left: 130px;
+    margin-bottom: 10px;
+}
+.nav-allignment{
+    margin-right: 100px;
+}
+
+.under-main{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.udermain-h1{
+    color: skyblue;
+    font-family: "Roboto";
+    font-weight: bold;
+    
+    font-size: 70px;
+
+}
+.udermain-bt{
+    border-radius: 20px;
+    margin-top: 10px;
+    padding: 10px;
+   
+    font-size: 20px;
+}
+
+.belowmain{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.below-h1{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 70px;
+}
+.below-p{
+    font-size: 25px;
+    font-family: "Roboto";
+    padding-top: 10px;
+}
